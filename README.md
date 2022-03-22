@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, C++**
 
-- 👨‍💻 Link to my website [ujjwalbhandarii.com.np](ujjwalbhandarii.com.np)
+- 👨‍💻 Link to my website [ujjwalbhandarii.com.np](https://www.ujjwalbhandarii.com.np/)
 
 - 📫 How to reach me **ujjwalbhandari14@gmail.com**
 
