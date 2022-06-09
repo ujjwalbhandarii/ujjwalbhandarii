@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ujjwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px "width="30px">, I'm Ujjwal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalbhandarii&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalbhandarii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ujjwalbhandarii" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhandarii?logo=twitter&style=for-the-badge" alt="ujjwalbhandarii" /></a> </p>
