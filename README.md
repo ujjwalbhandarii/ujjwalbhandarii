@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalbhandarii" target="__blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhandarii?logo=twitter&style=for-the-badge" alt="ujjwalbhandarii" /></a> </p>
 
-- 🌱 I’m currently exploring **Next.js**
+- 🌱 I’m currently exploring **Next.js** 
 
 - 👨‍💻 Link to my website [ujjwall.com.np](https://www.ujjwall.com.np/)
 
