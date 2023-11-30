@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Next.js** 
 
-- 👨‍💻 Link to my website [ujjwall.com.np](https://www.ujjwall.com.np/)
+- 👨‍💻 Link to my website [ujjwalbhandarii.com.np](https://www.ujjwalbhandarii.com.np/)
 
 - 📫 How to reach me **ujjwalbhandari14@gmail.com**
 
