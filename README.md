@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Bhandari.</h1>
 
-- 🌱 I’m currently studing for **6th sem finals🫡**
+- 🌱 I’m currently stu-dying for **6th sem finals🫡**
 
 - 👨‍💻 Link to my website [ujjwall.com.np](https://www.ujjwall.com.np/)
 
